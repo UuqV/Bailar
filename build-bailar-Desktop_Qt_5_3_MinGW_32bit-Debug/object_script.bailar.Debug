@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\save_broadcast.o
+./debug\possible_chords.o
+./debug\smart_shuffle.o
+./debug\qrc_rsc.o
+./debug\moc_mainwindow.o
+./debug\moc_save_broadcast.o
+./debug\moc_possible_chords.o
+./debug\moc_smart_shuffle.o
+);

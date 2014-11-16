@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>saveIcon.png</file>
+        <file>jimi.png</file>
+        <file>note_picture.png</file>
+        <file>c_maj.png</file>
+        <file>c_sharp.png</file>
+        <file>D_maj.png</file>
+        <file>E_maj.png</file>
+        <file>Eb.png</file>
+        <file>A_new.png</file>
+        <file>b_new.png</file>
+        <file>c_new.png</file>
+        <file>sharp_new.png</file>
+        <file>A_hov.png</file>
+        <file>b_hov.png</file>
+        <file>c_hov.png</file>
+    </qresource>
+</RCC>

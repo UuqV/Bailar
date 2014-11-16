@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\save_broadcast.o
+./release\possible_chords.o
+./release\smart_shuffle.o
+./release\qrc_rsc.o
+./release\moc_mainwindow.o
+./release\moc_save_broadcast.o
+./release\moc_possible_chords.o
+./release\moc_smart_shuffle.o
+);
